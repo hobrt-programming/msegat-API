@@ -91,7 +91,7 @@ class Sms
 	/**
 	* @access public
 	* @param Void
-	* @return Json
+	* @return Int
 	**/
 
 	public function getCredet()
